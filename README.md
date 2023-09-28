@@ -1,18 +1,7 @@
 # html-css
+ Curso de html5
+ 
+ Estou aprendendo a criar sites e agora vou gerenciar meus 
+ repositorios
 
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Minha página</title>
-</head>
-<body>
-  <h1>Olá, mundo!</h1>
-</body>
-</html>
-body {
-  font-family: Arial, sans-serif;
-}
-h1 {
-  color: blue;
-}
-console.log("Olá, mundo!");
+Muito Legal isso
